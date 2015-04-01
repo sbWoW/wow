@@ -5,6 +5,8 @@ type TooltipParams struct {
 	Gem1         int
 	Gem2         int
 	Set          []int
+	Enchant      int
+        Tinker       int
 	Reforge      int
 	TransmogItem int
 	Upgrade      *Upgrade
